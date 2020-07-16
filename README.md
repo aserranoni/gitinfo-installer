@@ -20,9 +20,13 @@ Também assumimos que o usuário utiliza o TeXLive. Entretanto,
  comando
  
  ```
- ./gitinfo-installer.sh [1st repo] ... [n-th repo]
+ [path-to-folder]/./gitinfo-installer.sh [1st repo] ... [n-th repo]
 ```
 Onde cada `[i-th repo]` é o caminho para um repositório git.
+
+## Licença
+
+Este pequeno Software é distribuído com a licença MIT, confome descrito no arquivo [LICENSE](https://github.com/aserranoni/gitinfo-installer/blob/master/LICENSE).
 
 ## Contato
 
